@@ -46,6 +46,18 @@ def call_iotapp(data):
 Setting IOTHUB . Connect Device, Connect Webapp, Check Machinelearning app url, and apikey. 
  
 
-
+~~~~~~~~~~~~~~~
+FOR Node.js server---- 
+below libraries are needed to be installed using " npm install ~~ --save " 
+"dependencies": {
+        "azure-event-hubs": "0.0.8",
+        "express": "^4.16.3",
+        "moment": "^2.22.1",
+        "path": "^0.12.7",
+        "python-shell": "^0.5.0",
+        "request": "^2.85.0",
+        "ws": "^5.1.1"
+    }
+    "
 
 
